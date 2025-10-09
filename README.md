@@ -1,5 +1,6 @@
 <!-- Typing animation (elegant serif + glowing deep blue shadow) -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&weight=900&size=32&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&repeat=true&width=850&lines=Hi+there!+👋+I'm+Victor+Philemon;AI+%26+Full-Stack+%2B+Data+Analytics+Developer;Building+intelligent,+data-driven+apps)](https://git.io/typing-svg)
+<!-- Typing animation (elegant serif + glowing deep blue shadow) -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=30&duration=4000&pause=1000&color=1E90FF&center=true&vCenter=true&repeat=true&width=800&lines=Hi+there!+👋+I'm+Victor+Philemon;AI+%26+Full-Stack+%2B+Data+Analytics+Developer;Crafting+intelligent,+data-driven+applications&glowColor=1E90FF&shadowColor=000000&shadowSize=1.5)](https://git.io/typing-svg)
 
 ---
 
