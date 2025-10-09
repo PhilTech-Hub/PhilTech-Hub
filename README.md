@@ -6,8 +6,18 @@
 ### ⚡ GitHub Analytics
 
 <!-- GitHub Stats -->
-![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PhilTech-Hub&show_icons=true&theme=tokyonight&count_private=true)     ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilTech-Hub&layout=compact&theme=tokyonight)
-
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=victorphilemon&show_icons=true&theme=tokyonight&count_private=true&v=2"
+    alt="Victor's GitHub Stats"
+  />
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorphilemon&layout=compact&theme=tokyonight&v=2"
+    alt="Top Languages"
+  />
+</p>
 
 <!-- Top Languages -->
 
