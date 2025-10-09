@@ -7,18 +7,18 @@
 ### ⚡ GitHub Analytics
 
 <!-- GitHub Stats -->
-![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&count_private=true)
+![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PhilTech-Hub&show_icons=true&theme=tokyonight&count_private=true)
 
 <!-- GitHub Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PhilTech-Hub&theme=tokyonight)
 
 <!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilTech-Hub&layout=compact&theme=tokyonight)
 
 ---
 
 ### 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=PhilTech-Hub&label=Profile+Views&color=0e75b6&style=flat)
 
 ---
 
