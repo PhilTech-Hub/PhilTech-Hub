@@ -6,7 +6,7 @@
 ### ⚡ GitHub Analytics
 
 <!-- GitHub Stats -->
-<p align="center">
+<p align="left">
   <img
     height="180em"
     src="https://github-readme-stats.vercel.app/api?username=PhilTech-Hub&show_icons=true&theme=tokyonight&count_private=true&v=2"
