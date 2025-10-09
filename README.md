@@ -6,7 +6,7 @@
 ### ⚡ GitHub Analytics
 
 <!-- GitHub Stats -->
-![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PhilTech-Hub&show_icons=true&theme=tokyonight&count_private=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilTech-Hub&layout=compact&theme=tokyonight)
+![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PhilTech-Hub&show_icons=true&theme=tokyonight&count_private=true)     ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilTech-Hub&layout=compact&theme=tokyonight)
 
 
 <!-- Top Languages -->
