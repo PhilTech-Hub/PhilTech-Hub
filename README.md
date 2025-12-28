@@ -34,7 +34,7 @@
       />
     </td>
 
-    ------
+    ---
     
     <td align="center">
       <b>Commit Effort by Language (%)</b><br/>
