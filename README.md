@@ -9,13 +9,13 @@
 
 ## 📊 Core GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PhilTech-Hub&show_icons=true&include_all_commits=true&theme=default" />
-</p>
+###🔹 GitHub Profile Summary Cards (Very Stable)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PhilTech-Hub&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhilTech-Hub&layout=compact&langs_count=8&theme=default" />
-</p>
+###🔹 Language % Analytics
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PhilTech-Hub&theme=tokyonight)
+
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?
 
 
 
