@@ -26,21 +26,22 @@
   </tr>
 </table>
 
-
-
-
-
 ---
 
-## 🔥 Commit Consistency
-
-<div align="center">
-
-<img
+<table>
+  <tr>
+    <td align="center">
+      <b>## 🔥 Commit Consistency</b><br/>
+      <img
 src="https://github-readme-streak-stats.herokuapp.com?user=PhilTech-Hub&theme=tokyonight&hide_border=true"
 />
-
-</div>
+    </td>
+    <td align="center">
+      <b>Commit Effort by Language (%)</b><br/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PhilTech-Hub&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
 
 ---
 
