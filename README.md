@@ -1,7 +1,7 @@
 <!-- ===================== HERO ===================== -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&duration=4000&pause=1200&color=4DA3FF&center=true&vCenter=true&repeat=true&width=900&lines=Engineering+Intelligence+Through+Code;AI+%7C+Full-Stack+%7C+Data+Analytics;Live+GitHub+Code+%26+Activity+Metrics)](https://git.io/typing-svg)
+<!-- Typing animation (elegant serif + glowing deep blue shadow) --> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=30&duration=5000&pause=1500&color=1E90FF&center=true&vCenter=true&repeat=true&width=800&lines=Hi+there!+👋+Welcome+to+My+GitHub+Platform;I'm+Eng.+Philemon+Victor,+an+AI,+Full-Stack+%26;Data+Analytics+Developer+with+Expertise+in+crafting,;Intelligent,+Data-driven+applications...&glowColor=1E90FF&shadowColor=000000&shadowSize=1.5)](https://git.io/typing-svg)
 
 </div>
 
