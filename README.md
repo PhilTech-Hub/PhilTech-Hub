@@ -53,7 +53,7 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=PhilTech-Hub
 ---
 
 
-## ⭐ Repository & Impact Overview | ## 🧮 Productivity Timeline
+## ⭐ Repository & Impact Overview | 🧮 Productivity Timeline
 
 <div align="center">
 
