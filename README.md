@@ -33,8 +33,6 @@
         src="https://github-readme-streak-stats.herokuapp.com?user=PhilTech-Hub&theme=tokyonight&hide_border=true"
       />
     </td>
-
-    ---
     
     <td align="center">
       <b>Commit Effort by Language (%)</b><br/>
