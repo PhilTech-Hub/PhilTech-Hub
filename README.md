@@ -24,10 +24,11 @@
 
 ---
 
+## 🔥 Commit Analytics
 <table>
   <tr>
     <td align="center">
-      <b>🔥 Commit Consistency</b><br/>
+      <b>Commit Consistency</b><br/>
       <img
         src="https://github-readme-streak-stats.herokuapp.com?user=PhilTech-Hub&theme=tokyonight&hide_border=true"
       />
@@ -52,20 +53,6 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=PhilTech-Hub
 </div>
 
 ---
-
-## 🧠 Language Analytics (% Breakdown)
-
-<div align="center">
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PhilTech-Hub&theme=tokyonight"
-/>
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PhilTech-Hub&theme=tokyonight"
-/>
-
-</div>
 
 ---
 
