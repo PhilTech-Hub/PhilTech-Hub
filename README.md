@@ -19,10 +19,6 @@
       <b>Language Distribution (%)</b><br/>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PhilTech-Hub&theme=tokyonight" />
     </td>
-    <td align="center">
-      <b>Commit Effort by Language (%)</b><br/>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PhilTech-Hub&theme=tokyonight" />
-    </td>
   </tr>
 </table>
 
@@ -31,7 +27,7 @@
 <table>
   <tr>
     <td align="center">
-      <b>## 🔥 Commit Consistency</b><br/>
+      <b>🔥 Commit Consistency</b><br/>
       <img
 src="https://github-readme-streak-stats.herokuapp.com?user=PhilTech-Hub&theme=tokyonight&hide_border=true"
 />
