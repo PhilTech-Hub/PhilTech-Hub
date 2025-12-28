@@ -5,7 +5,7 @@
 
 </div>
 
-
+---
 
 ## 📊 Core GitHub Statistics
 
@@ -15,7 +15,6 @@
       <b>GitHub Profile Overview</b><br/>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PhilTech-Hub&theme=tokyonight" />
     </td>
-    ---
     <td align="center">
       <b>Language Distribution (%)</b><br/>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PhilTech-Hub&theme=tokyonight" />
