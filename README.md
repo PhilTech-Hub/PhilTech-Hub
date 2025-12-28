@@ -23,6 +23,23 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhilTech-Hub
 
 ---
 
+<div align="center">
+
+<img height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhilTech-Hub&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"
+/>
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PhilTech-Hub&theme=tokyonight"
+/>
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PhilTech-Hub&theme=tokyonight"
+/>
+
+</div>
+
+
 ## 🔥 Commit Activity & Consistency
 
 <div align="center">
