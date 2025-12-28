@@ -12,11 +12,11 @@
 <div align="center">
 
 <img height="170"
-src="https://github-readme-stats.vercel.app/api?username=PhilTech-Hub&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true"
+src="https://github-readme-stats.vercel.app/api?username=PhilTech-Hub&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&v=1"
 />
 
 <img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhilTech-Hub&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhilTech-Hub&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&v=1"
 />
 
 </div>
