@@ -55,29 +55,33 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=PhilTech-Hub
 ---
 
 
-## ⭐ Repository & Impact Overview
+## ⭐ Repository & Impact Overview | ## 🧮 Productivity Timeline
 
 <div align="center">
 
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PhilTech-Hub&theme=tokyonight"
-/>
+  <table>
+    <tr>
+      <td align="center">
+        <b> Repository & Impact Overview </b><br/>
+        <img
+          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PhilTech-Hub&theme=tokyonight"
+        />
+      </td>
+      <td align="center">
+        <b> Productivity Timeline </b><br/>
+        <img
+            src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PhilTech-Hub&theme=tokyonight&utcOffset=3"
+        />
+      </td>
+    </tr>
+  </table>
 
 </div>
 
 ---
 
-## 🧮 Productivity Timeline
 
-<div align="center">
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PhilTech-Hub&theme=tokyonight&utcOffset=3"
-/>
-
-</div>
-
----
+-------
 
 ## 👀 Profile Reach
 
