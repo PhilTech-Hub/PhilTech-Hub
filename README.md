@@ -1,54 +1,31 @@
-<!-- ===================== ELITE FUTURISTIC HERO ===================== -->
+<!-- ===================== HERO ===================== -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=34&duration=4200&pause=1100&color=5FA8FF&center=true&vCenter=true&repeat=true&width=1000&lines=Welcome+to+My+GitHub;Eng.+Philemon+Victor;AI+Researcher+%7C+Full-Stack+Engineer+%7C+Data+Scientist;Designing+Intelligent+Systems+at+Scale;Where+Research+Meets+Production)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&duration=4000&pause=1200&color=4DA3FF&center=true&vCenter=true&repeat=true&width=900&lines=Engineering+Intelligence+Through+Code;AI+%7C+Full-Stack+%7C+Data+Analytics;Live+GitHub+Activity+%26+Code+Metrics)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<!-- ===================== ACADEMIC + FOUNDER TAGLINE ===================== -->
-<div align="center">
-
-**Applied Artificial Intelligence · Scalable Software Systems · Data-Driven Decision Science**
-
-*Bridging academic rigor with real-world engineering and startup execution.*
-
-</div>
-
----
-
-## 🧬 Research & Engineering Focus
-
-<div align="center">
-
-🧠 **Artificial Intelligence & Machine Learning**  
-📊 **Advanced Data Analytics & Modeling**  
-⚙️ **Full-Stack & Distributed Systems**  
-🚀 **Startup-Grade Architecture & Product Engineering**
-
-</div>
-
----
-
-## ⚡ Intelligence Metrics
+## 📊 Core GitHub Statistics
 
 <div align="center">
 
 <img height="180"
-src="https://github-readme-stats.vercel.app/api?username=PhilTech-Hub&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
+src="https://github-readme-stats.vercel.app/api?username=PhilTech-Hub&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true"
+/>
 
 <img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhilTech-Hub&layout=compact&theme=tokyonight&hide_border=true"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhilTech-Hub&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"
+/>
 
 </div>
 
 ---
 
-<!-- ===================== CONSISTENCY SIGNAL ===================== -->
-<div align="center">
+## 🔥 Commit Activity & Consistency
 
-📈 **Research & Engineering Consistency**
+<div align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PhilTech-Hub&theme=tokyonight&hide_border=true)
 
@@ -56,31 +33,63 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhilTech-Hub
 
 ---
 
-## 🧰 Core Technologies & Research Stack
+## 📈 Contribution Analytics (Real Commit Graph)
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42"/>
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=PhilTech-Hub&theme=tokyo-night&hide_border=true"
+/>
 
 </div>
 
 ---
 
-<!-- ===================== SIGNAL OF AUTHORITY ===================== -->
+## ⭐ Repository & Impact Metrics
+
 <div align="center">
 
-👁️ **Scholars · Engineers · Founders Viewing This Profile**  
-<br/>
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PhilTech-Hub&theme=tokyonight"
+/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=PhilTech-Hub&label=Profile+Reach&color=5fa8ff&style=for-the-badge)
+</div>
+
+---
+
+## 🧠 Advanced Code Analytics (Deep Signal)
+
+<div align="center">
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PhilTech-Hub&theme=tokyonight"
+/>
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PhilTech-Hub&theme=tokyonight"
+/>
+
+</div>
+
+---
+
+## 🧮 Productivity & Time-Series Metrics
+
+<div align="center">
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PhilTech-Hub&theme=tokyonight&utcOffset=3"
+/>
+
+</div>
+
+---
+
+## 👀 Profile Reach
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=PhilTech-Hub&label=Profile+Views&color=1e90ff&style=for-the-badge)
 
 </div>
 
@@ -88,7 +97,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhilTech-Hub
 
 <div align="center">
 
-⭐ **Explore my repositories to see AI research translated into production-grade systems.**  
-*Built with rigor. Deployed with purpose.*
+📌 **This profile emphasizes measurable engineering output — commits, languages, repositories, and impact.**  
+⭐ *Explore repositories below for implementation depth.*
 
 </div>
