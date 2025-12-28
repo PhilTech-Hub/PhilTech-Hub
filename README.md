@@ -1,53 +1,94 @@
-<!-- Typing animation (elegant serif + glowing deep blue shadow) -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=30&duration=5000&pause=1500&color=1E90FF&center=true&vCenter=true&repeat=true&width=800&lines=Hi+there!+👋+Welcome+to+My+GitHub+Platform;I'm+Eng.+Philemon+Victor,+an+AI,+Full-Stack+%26;Data+Analytics+Developer+with+Expertise+in+crafting,;Intelligent,+Data-driven+applications...&glowColor=1E90FF&shadowColor=000000&shadowSize=1.5)](https://git.io/typing-svg)
+<!-- ===================== ELITE FUTURISTIC HERO ===================== -->
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=34&duration=4200&pause=1100&color=5FA8FF&center=true&vCenter=true&repeat=true&width=1000&lines=Welcome+to+My+GitHub;Eng.+Philemon+Victor;AI+Researcher+%7C+Full-Stack+Engineer+%7C+Data+Scientist;Designing+Intelligent+Systems+at+Scale;Where+Research+Meets+Production)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-### ⚡ GitHub Analytics
+<!-- ===================== ACADEMIC + FOUNDER TAGLINE ===================== -->
+<div align="center">
 
+**Applied Artificial Intelligence · Scalable Software Systems · Data-Driven Decision Science**
 
-<p align="left">
-  <!-- GitHub Stats -->
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=PhilTech-Hub&show_icons=true&theme=tokyonight&count_private=true&v=2"
-    alt="Victor's GitHub Stats"
-  />
-  <!-- Top Languages -->
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhilTech-Hub&layout=compact&theme=tokyonight&v=2"
-    alt="Top Languages"
-  />
-</p>
+*Bridging academic rigor with real-world engineering and startup execution.*
 
-
-
-
-<!-- GitHub Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PhilTech-Hub&theme=tokyonight)
-
+</div>
 
 ---
 
-### 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=PhilTech-Hub&label=Profile+Views&color=0e75b6&style=flat)
+## 🧬 Research & Engineering Focus
+
+<div align="center">
+
+🧠 **Artificial Intelligence & Machine Learning**  
+📊 **Advanced Data Analytics & Modeling**  
+⚙️ **Full-Stack & Distributed Systems**  
+🚀 **Startup-Grade Architecture & Product Engineering**
+
+</div>
 
 ---
 
-### 🧰 Languages & Tools
-<img align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="TensorFlow" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-<img align="left" alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Next.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-<img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img align="left" alt="MongoDB" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+## ⚡ Intelligence Metrics
 
-<br clear="left"/>
+<div align="center">
+
+<img height="180"
+src="https://github-readme-stats.vercel.app/api?username=PhilTech-Hub&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
+
+<img height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhilTech-Hub&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-⭐ **Check out my repositories below to see my AI & Full-Stack projects!**
+<!-- ===================== CONSISTENCY SIGNAL ===================== -->
+<div align="center">
+
+📈 **Research & Engineering Consistency**
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PhilTech-Hub&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🧰 Core Technologies & Research Stack
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42"/>
+
+</div>
+
+---
+
+<!-- ===================== SIGNAL OF AUTHORITY ===================== -->
+<div align="center">
+
+👁️ **Scholars · Engineers · Founders Viewing This Profile**  
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=PhilTech-Hub&label=Profile+Reach&color=5fa8ff&style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ **Explore my repositories to see AI research translated into production-grade systems.**  
+*Built with rigor. Deployed with purpose.*
+
+</div>
