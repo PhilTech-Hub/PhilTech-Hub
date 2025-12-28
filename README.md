@@ -9,10 +9,10 @@
 
 ## 📊 Core GitHub Statistics
 
-##🔹 GitHub Profile Summary Cards (Very Stable)
+### 🔹 GitHub Profile Summary Cards (Very Stable)
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PhilTech-Hub&theme=tokyonight)
 
-##🔹 Language % Analytics
+### 🔹 Language % Analytics
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PhilTech-Hub&theme=tokyonight)
 
 ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?
